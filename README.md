@@ -84,9 +84,9 @@ These cards are generated from my GitHub activity and refresh automatically.
 
 ![GitHub streak](https://streak-stats.demolab.com?user=Upendra2024&theme=tokyonight&hide_border=true)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upendra2024&bg_color=0f172a&color=ffffff&line=2563eb&point=ffffff&area=true&hide_border=true)
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Upendra2024&theme=tokyonight)
 
-![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=Upendra2024&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Upendra2024&theme=tokyonight&utcOffset=5.5)
 
 ## Contributions & Activity
 
