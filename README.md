@@ -76,17 +76,19 @@ These cards update automatically with each repository's current stars, forks, an
 
 ## GitHub Analytics — Live
 
-These cards are generated from my GitHub activity and refresh automatically.
+The analytics cards below are live remote images. The two-column layout keeps them side by side on wider screens and contained in a responsive Markdown table on smaller screens.
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800)
+| GitHub statistics | Top languages |
+|---|---|
+| ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800) |
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+| GitHub streak | Profile summary |
+|---|---|
+| ![GitHub streak](https://streak-stats.demolab.com?user=Upendra2024&theme=tokyonight&hide_border=true) | ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Upendra2024&theme=tokyonight) |
 
-![GitHub streak](https://streak-stats.demolab.com?user=Upendra2024&theme=tokyonight&hide_border=true)
-
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Upendra2024&theme=tokyonight)
-
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Upendra2024&theme=tokyonight&utcOffset=5.5)
+| Repositories by language | |
+|---|---|
+| ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Upendra2024&theme=tokyonight) | |
 
 ## Contributions & Activity
 
