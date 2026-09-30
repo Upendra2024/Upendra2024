@@ -1,14 +1,22 @@
-![Upendra Eemani](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Upendra%20Eemani&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35)
+![DevOps Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=220&section=header&text=DEVOPS%20ENGINEER&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Cloud%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20CI%2FCD&descSize=16&descAlignY=55&animation=fadeIn)
 
 # Hi, I'm Upendra Eemani
 
 ### DevOps Engineer at TCS | Cloud Infrastructure & Automation
+
+I build reliable delivery systems, automate infrastructure, and turn repeatable engineering practices into production-ready workflows.
 
 [![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+reliable+delivery+workflows;Infrastructure+as+code+with+Terraform;Automating+CI%2FCD+with+GitHub+Actions;Learning%2C+improving%2C+and+shipping+with+confidence)](https://github.com/Upendra2024)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Upendra2024&label=Profile%20Views&color=2563eb&style=for-the-badge)](https://github.com/Upendra2024)
 
 ---
+
+## Profile at a Glance
+
+| Role | Location | Primary focus | Current direction |
+|---|---|---|---|
+| DevOps Engineer at TCS | Hyderabad, India | Cloud, automation, CI/CD | AWS, Terraform, Kubernetes, observability |
 
 ## About Me
 
