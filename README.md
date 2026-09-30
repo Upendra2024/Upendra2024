@@ -62,17 +62,23 @@ I am a DevOps Engineer at TCS based in Hyderabad, India. I focus on cloud infras
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics — Live
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github)
+These cards are generated from my GitHub activity and refresh automatically.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=Upendra2024&theme=tokyonight&hide_border=true)
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upendra2024&bg_color=0f172a&color=ffffff&line=2563eb&point=ffffff&area=true&hide_border=true)
 
 ![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=Upendra2024&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## Contributions & Activity
+
+GitHub automatically updates the contribution graph and activity feed on this public profile.
 
 - [View my public contribution graph](https://github.com/Upendra2024)
 - [View my commit activity](https://github.com/Upendra2024?tab=overview)
