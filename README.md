@@ -36,13 +36,25 @@ I am a DevOps Engineer at TCS based in Hyderabad, India. I focus on cloud infras
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+## Featured Repositories — Live
+
+These cards update automatically with each repository's current stars, forks, and primary language.
+
+[![Jenkins Terraform EKS](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=Jenkins-Terraform-EKS&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/Jenkins-Terraform-EKS)
+
+[![GitOps Register App](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=gitops-register-app&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/gitops-register-app)
+
+[![Register App](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=register-app&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/register-app)
+
+[![Python for DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=python-for-devops&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/python-for-devops)
+
 ## Selected Work
 
-- [GitHub Actions Demo](https://github.com/Upendra2024/GH-actions-demo) — CI/CD workflow experimentation
+- [Jenkins Terraform EKS](https://github.com/Upendra2024/Jenkins-Terraform-EKS) — Infrastructure automation with Terraform, Jenkins, and Amazon EKS
+- [GitOps Register App](https://github.com/Upendra2024/gitops-register-app) — GitOps-oriented application deployment practice
+- [Python for DevOps](https://github.com/Upendra2024/python-for-devops) — Python learning and automation practice for DevOps
 - [Next.js Dashboard](https://github.com/Upendra2024/Next-Js-dashboard) — TypeScript dashboard application
-- [Material UI CRUD React](https://github.com/Upendra2024/MUi_Crud_React) — React CRUD interface
 - [Angular CRUD](https://github.com/Upendra2024/Angular-Crud) — Angular and TypeScript CRUD application
-- [Redux CRUD Todo App](https://github.com/Upendra2024/Redux-Crud-Todo-App) — React and Redux project
 
 ## Current Focus
 
