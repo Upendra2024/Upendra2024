@@ -6,58 +6,81 @@
 
 [![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+reliable+delivery+workflows;Infrastructure+as+code+with+Terraform;Automating+CI%2FCD+with+GitHub+Actions;Learning%2C+improving%2C+and+shipping+with+confidence)](https://github.com/Upendra2024)
 
+[![Profile views](https://komarev.com/ghpvc/?username=Upendra2024&label=Profile%20Views&color=2563eb&style=for-the-badge)](https://github.com/Upendra2024)
+
 ---
 
 ## About Me
 
-```yaml
-name: Upendra Eemani
-role: DevOps Engineer
-company: TCS
-location: Hyderabad, India
-focus:
-  - Cloud infrastructure
-    - Infrastructure as code
-      - CI/CD automation
-        - Containers and Kubernetes
-          - Reliable software delivery
-          ```
+I am a DevOps Engineer at TCS based in Hyderabad, India. I focus on cloud infrastructure, infrastructure as code, CI/CD automation, containers, and reliable software delivery. I also build frontend applications with React, TypeScript, JavaScript, Next.js, Angular, and Redux.
 
-          I work on practical automation and delivery workflows that help teams build, release, and operate software more reliably. I also bring frontend experience with React, TypeScript, JavaScript, Next.js, Angular, and Redux.
+- Building repeatable infrastructure and deployment workflows
+- Improving delivery speed, reliability, and operational visibility
+- Learning continuously through hands-on projects and automation
 
-          ## Cloud, DevOps & Tools
+## Tech Arsenal
 
-          ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Cloud & Infrastructure
 
-          ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-          ## Selected Work
+### Containers & Orchestration
 
-          - [GitHub Actions Demo](https://github.com/Upendra2024/GH-actions-demo) — CI/CD workflow experimentation
-          - [Next.js Dashboard](https://github.com/Upendra2024/Next-Js-dashboard) — TypeScript dashboard application
-          - [Material UI CRUD React](https://github.com/Upendra2024/MUi_Crud_React) — React CRUD interface
-          - [Angular CRUD](https://github.com/Upendra2024/Angular-Crud) — Angular and TypeScript CRUD application
-          - [Redux CRUD Todo App](https://github.com/Upendra2024/Redux-Crud-Todo-App) — React and Redux project
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-          ## Current Focus
+### CI/CD & Automation
 
-          - Strengthening cloud engineering and infrastructure-as-code practices
-          - Building reliable CI/CD workflows and deployment automation
-          - Improving observability, security, and operational feedback loops
-          - Growing at the intersection of DevOps, product engineering, and automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-          ## Engineering Principles
+### Languages & Development
 
-          > Automate the repeatable, make systems observable, and improve through feedback.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-          ## GitHub Analytics
+## Selected Work
 
-          ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+- [GitHub Actions Demo](https://github.com/Upendra2024/GH-actions-demo) — CI/CD workflow experimentation
+- [Next.js Dashboard](https://github.com/Upendra2024/Next-Js-dashboard) — TypeScript dashboard application
+- [Material UI CRUD React](https://github.com/Upendra2024/MUi_Crud_React) — React CRUD interface
+- [Angular CRUD](https://github.com/Upendra2024/Angular-Crud) — Angular and TypeScript CRUD application
+- [Redux CRUD Todo App](https://github.com/Upendra2024/Redux-Crud-Todo-App) — React and Redux project
 
-          ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true)
+## Current Focus
 
-          ![Profile views](https://komarev.com/ghpvc/?username=Upendra2024&style=flat-square&color=2563eb)
+- Strengthening AWS and cloud engineering practices
+- Building infrastructure with Terraform and Kubernetes
+- Automating CI/CD with GitHub Actions
+- Improving observability, security, and operational feedback loops
 
-          ---
+## Engineering Principles
 
-          Thanks for visiting my profile.
+> Automate the repeatable. Make systems observable. Improve through feedback.
+
+- Reliability over heroics
+- Infrastructure as code over manual changes
+- Small, repeatable releases over risky deployments
+- Security and operational visibility by default
+
+---
+
+## GitHub Analytics
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub streak](https://streak-stats.demolab.com?user=Upendra2024&theme=tokyonight&hide_border=true)
+
+![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=Upendra2024&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+## Contributions & Activity
+
+- [View my public contribution graph](https://github.com/Upendra2024)
+- [View my commit activity](https://github.com/Upendra2024?tab=overview)
+- [Explore my repositories](https://github.com/Upendra2024?tab=repositories)
+- [See my recent GitHub activity](https://github.com/Upendra2024?tab=overview)
+
+---
+
+### Let's build reliable systems together.
+
+Thanks for visiting my profile.
