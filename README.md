@@ -1,114 +1,126 @@
-![DevOps Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=220&section=header&text=DEVOPS%20ENGINEER&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Cloud%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20CI%2FCD&descSize=16&descAlignY=55&animation=fadeIn)
+<div align="center">
 
-# Hi, I'm Upendra Eemani
+![DevOps Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:ff4d8d,35:7c3aed,70:06b6d4,100:ffb703&height=220&section=header&text=DEVOPS%20ENGINEER&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Cloud%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20CI%2FCD&descSize=16&descAlignY=55&animation=fadeIn)
 
-### DevOps Engineer at TCS | Cloud Infrastructure & Automation
+# Upendra Eemani
 
-I build reliable delivery systems, automate infrastructure, and turn repeatable engineering practices into production-ready workflows.
+### DevOps Engineer · Cloud Infrastructure · Automation
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+reliable+delivery+workflows;Infrastructure+as+code+with+Terraform;Automating+CI%2FCD+with+GitHub+Actions;Learning%2C+improving%2C+and+shipping+with+confidence)](https://github.com/Upendra2024)
+**DevOps Engineer at TCS** · Hyderabad, India
 
-[![Profile views](https://komarev.com/ghpvc/?username=Upendra2024&label=Profile%20Views&color=2563eb&style=for-the-badge)](https://github.com/Upendra2024)
+I build reliable cloud infrastructure and delivery workflows through automation, infrastructure as code, and thoughtful operational practices. I also enjoy developing web applications and exploring the tools that help teams ship with confidence.
+
+[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+reliable+delivery+workflows;Infrastructure+as+code+with+Terraform;Automating+CI%2FCD+with+GitHub+Actions;Learning%2C+improving%2C+and+shipping+with+confidence)](https://github.com/Upendra2024)
+
+[![Profile visitors](https://komarev.com/ghpvc/?username=Upendra2024&label=PROFILE%20VISITS&color=ff4d8d&style=for-the-badge)](https://github.com/Upendra2024) ![Followers](https://img.shields.io/github/followers/Upendra2024?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github) ![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FUpendra2024&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=06b6d4&logo=github)
+
+[Repositories](https://github.com/Upendra2024?tab=repositories) · [Activity](https://github.com/Upendra2024?tab=overview)
+
+</div>
 
 ---
 
-## Profile at a Glance
+## About
 
-| Role | Location | Primary focus | Current direction |
+I’m a DevOps Engineer at TCS based in Hyderabad, India. My work and learning focus on cloud infrastructure, infrastructure as code, CI/CD automation, containers, and dependable software delivery. I also build frontend applications with React, TypeScript, JavaScript, Next.js, Angular, and Redux.
+
+- **Build:** repeatable infrastructure and deployment workflows
+- **Improve:** delivery speed, reliability, and operational visibility
+- **Explore:** cloud-native practices and hands-on automation projects
+
+## At a glance
+
+| Role | Location | Focus | Exploring |
 |---|---|---|---|
 | DevOps Engineer at TCS | Hyderabad, India | Cloud, automation, CI/CD | AWS, Terraform, Kubernetes, observability |
 
-## About Me
+## Skills & technology
 
-I am a DevOps Engineer at TCS based in Hyderabad, India. I focus on cloud infrastructure, infrastructure as code, CI/CD automation, containers, and reliable software delivery. I also build frontend applications with React, TypeScript, JavaScript, Next.js, Angular, and Redux.
+<div align="center">
 
-- Building repeatable infrastructure and deployment workflows
-- Improving delivery speed, reliability, and operational visibility
-- Learning continuously through hands-on projects and automation
+<img src="./assets/skills-glow.gif" alt="Animated glowing skills matrix: AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, React, TypeScript, JavaScript, Next.js, Angular, and Redux" width="780" />
 
-## Tech Arsenal
+</div>
 
-### Cloud & Infrastructure
+**Tooling icon grid**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
 
-### Containers & Orchestration
+[![Cloud, DevOps, and development tools](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,git,jenkins,react,ts,js,nextjs,angular,redux,py&perline=8&theme=dark)](https://skillicons.dev)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+</div>
 
-### CI/CD & Automation
+## Featured repositories · live
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+A hand-picked project grid with short portfolio descriptions. Repository cards and star/fork counters are fetched live from GitHub.
 
-### Languages & Development
+| Infrastructure & platform engineering | GitOps & application delivery |
+|---|---|
+| **[Jenkins Terraform EKS](https://github.com/Upendra2024/Jenkins-Terraform-EKS)**  <br>Infrastructure automation with Terraform, Jenkins, and Amazon EKS.  <br>[![Jenkins Terraform EKS](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=Jenkins-Terraform-EKS&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2)](https://github.com/Upendra2024/Jenkins-Terraform-EKS)  <br>![Stars](https://img.shields.io/github/stars/Upendra2024/Jenkins-Terraform-EKS?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/Upendra2024/Jenkins-Terraform-EKS?style=flat-square&label=forks) | **[GitOps Register App](https://github.com/Upendra2024/gitops-register-app)**  <br>A GitOps-oriented application deployment practice project.  <br>[![GitOps Register App](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=gitops-register-app&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2)](https://github.com/Upendra2024/gitops-register-app)  <br>![Stars](https://img.shields.io/github/stars/Upendra2024/gitops-register-app?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/Upendra2024/gitops-register-app?style=flat-square&label=forks) |
+| **[Python for DevOps](https://github.com/Upendra2024/python-for-devops)**  <br>Python practice focused on DevOps learning and automation.  <br>[![Python for DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=python-for-devops&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2)](https://github.com/Upendra2024/python-for-devops)  <br>![Stars](https://img.shields.io/github/stars/Upendra2024/python-for-devops?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/Upendra2024/python-for-devops?style=flat-square&label=forks) | **[Register App](https://github.com/Upendra2024/register-app)**  <br>A full-stack registration application project.  <br>[![Register App](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=register-app&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2)](https://github.com/Upendra2024/register-app)  <br>![Stars](https://img.shields.io/github/stars/Upendra2024/register-app?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/Upendra2024/register-app?style=flat-square&label=forks) |
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+[Explore all repositories](https://github.com/Upendra2024?tab=repositories)
 
-## Featured Repositories — Live
+## Recent writing
 
-These cards update automatically with each repository's current stars, forks, and primary language.
+New posts from my RSS feed are added here automatically. Configure the public repository variable `BLOG_FEED_URL` with your site's RSS or Atom feed URL to turn on syncing.
 
-[![Jenkins Terraform EKS](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=Jenkins-Terraform-EKS&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/Jenkins-Terraform-EKS)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[![GitOps Register App](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=gitops-register-app&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/gitops-register-app)
+The blog-sync workflow checks the feed daily and can also be run manually from the repository’s **Actions** tab.
 
-[![Register App](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=register-app&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/register-app)
-
-[![Python for DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Upendra2024&repo=python-for-devops&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Upendra2024/python-for-devops)
-
-## Selected Work
-
-- [Jenkins Terraform EKS](https://github.com/Upendra2024/Jenkins-Terraform-EKS) — Infrastructure automation with Terraform, Jenkins, and Amazon EKS
-- [GitOps Register App](https://github.com/Upendra2024/gitops-register-app) — GitOps-oriented application deployment practice
-- [Python for DevOps](https://github.com/Upendra2024/python-for-devops) — Python learning and automation practice for DevOps
-- [Next.js Dashboard](https://github.com/Upendra2024/Next-Js-dashboard) — TypeScript dashboard application
-- [Angular CRUD](https://github.com/Upendra2024/Angular-Crud) — Angular and TypeScript CRUD application
-
-## Current Focus
-
-- Strengthening AWS and cloud engineering practices
-- Building infrastructure with Terraform and Kubernetes
-- Automating CI/CD with GitHub Actions
-- Improving observability, security, and operational feedback loops
-
-## Engineering Principles
-
-> Automate the repeatable. Make systems observable. Improve through feedback.
-
-- Reliability over heroics
-- Infrastructure as code over manual changes
-- Small, repeatable releases over risky deployments
-- Security and operational visibility by default
-
----
-
-## GitHub Analytics — Live
-
-The analytics cards below are live remote images. The two-column layout keeps them side by side on wider screens and contained in a responsive Markdown table on smaller screens.
+## GitHub stats · live
 
 | GitHub statistics | Top languages |
 |---|---|
 | ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Upendra2024&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2024&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800) |
 
-| GitHub streak | Profile summary |
+| Auto-refreshed streak | Profile summary |
 |---|---|
-| ![GitHub streak](https://streak-stats.demolab.com?user=Upendra2024&theme=tokyonight&hide_border=true) | ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Upendra2024&theme=tokyonight) |
+| ![GitHub contribution streak](./profile/streak.svg) | ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Upendra2024&theme=tokyonight) |
 
-| Repositories by language | |
-|---|---|
-| ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Upendra2024&theme=tokyonight) | |
+| Repositories by language |
+|---|
+| ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Upendra2024&theme=tokyonight) |
 
-## Contributions & Activity
+### GitHub achievements
 
-GitHub automatically updates the contribution graph and activity feed on this public profile.
+<div align="center">
 
-- [View my public contribution graph](https://github.com/Upendra2024)
-- [View my commit activity](https://github.com/Upendra2024?tab=overview)
-- [Explore my repositories](https://github.com/Upendra2024?tab=repositories)
-- [See my recent GitHub activity](https://github.com/Upendra2024?tab=overview)
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Upendra2024&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Upendra2024)
+
+</div>
+
+### Contribution activity
+
+<div align="center">
+
+[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upendra2024&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Upendra2024?tab=overview)
+
+</div>
+
+*The visitor counter reflects image requests, not a verified count of unique people.*
+
+## Current focus
+
+- Strengthening AWS and cloud engineering practices
+- Building infrastructure with Terraform and Kubernetes
+- Automating delivery pipelines with GitHub Actions
+- Improving observability, security, and operational feedback loops
+
+## Engineering principles
+
+> Automate the repeatable. Make systems observable. Improve through feedback.
+
+I value reliability over heroics, infrastructure as code over manual changes, and small, repeatable releases over risky deployments—with security and operational visibility considered from the start.
 
 ---
 
-### Let's build reliable systems together.
+<div align="center">
 
-Thanks for visiting my profile.
+### Let’s build reliable systems together.
+
+Thanks for stopping by. Explore my [repositories](https://github.com/Upendra2024?tab=repositories) and [recent activity](https://github.com/Upendra2024?tab=overview).
+
+</div>
