@@ -1,0 +1,39 @@
+name: Refresh GitHub streak card
+
+on:
+  schedule:
+    # Daily at 03:17 UTC (08:47 in Asia/Kolkata).
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streak-stats-refresh
+  cancel-in-progress: false
+
+jobs:
+  generate-streak-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&disable_animations=true
+          path: profile/streak.svg
+
+      - name: Commit updated streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          if git diff --cached --quiet; then
+            echo "Streak card is unchanged."
+            exit 0
+          fi
+          git commit -m "chore: refresh GitHub streak card"
+          git push
