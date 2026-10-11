@@ -84,23 +84,6 @@ The blog-sync workflow checks the feed daily and can also be run manually from t
 |---|
 | ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Upendra2024&theme=tokyonight) |
 
-### GitHub achievements
-
-<div align="center">
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Upendra2024&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Upendra2024)
-
-</div>
-
-### Contribution activity
-
-<div align="center">
-
-[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upendra2024&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Upendra2024?tab=overview)
-
-</div>
-
-*The visitor counter reflects image requests, not a verified count of unique people.*
 
 ## Current focus
 
