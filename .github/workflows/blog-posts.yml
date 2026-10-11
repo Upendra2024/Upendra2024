@@ -1,0 +1,31 @@
+name: Sync recent blog posts
+
+on:
+  schedule:
+    # Daily at 00:20 UTC (05:50 in Asia/Kolkata).
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-posts-sync
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    # Configure BLOG_FEED_URL in Settings > Secrets and variables > Actions > Variables.
+    if: ${{ vars.BLOG_FEED_URL != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update recent blog posts from RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: ${{ vars.BLOG_FEED_URL }}
+          max_post_count: 5
+          readme_path: ./README.md
+          commit_message: "chore: sync recent blog posts"
